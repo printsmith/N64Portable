@@ -93,8 +93,15 @@ Trimmed Motherboard and Rerouted Voltage Lines
 <h2 id="pcb-design">PCB Design</h2>
 
 <p align="justify">
-  
 Going into this project I knew basically nothing about PCB design and one of my goals was to learn, so I downloaded Autodesk EAGLE and began playing with the software. The first PCBs I began designing were for the controller buttons. To replicate the feel of the original controller buttons and based off recommendations from members of the Bitbuilt forum, I chose to use [soft tactile buttons](https://www.adafruit.com/product/3101) (or "squishy tacts") for the main controls, and repurpose the membrane for the D-Pad. I was able to find an appropriate library for the buttons in EAGLE which provided me with the footprint, symbol, and CAD model and I also developed my own library for the button pads. 
-  
 </p>
 
+<p align = "center">
+<img src="images/PCB/abcs_revA.PNG" alt="Bare Motherboard" width="410">
+<img src="images/PCB/abcs_revA_CAD.PNG" alt="Bare Motherboard" width="460">
+<img src="images/PCB/dpad_revA.PNG" alt="Bare Motherboard" width="400">
+<img src="images/PCB/dpad_revA_CAD.PNG" alt="Bare Motherboard" width="460">
+</p>
+<p align = "center">
+First designs for controller button PCBs and CAD renders
+</p>
