@@ -56,7 +56,7 @@
  Bare motherboard and trim outline
  </p>
  
-In December of 2020 a new advanced trimming guide was released on the website which allows for an even further reduction 
+*Note: In December of 2020 a new advanced trimming guide was released on the website which allows for an even further reduction, unfortunately I did not have this at my disposal when doing this project so perhaps in the future when I build version 2.0 this will make things a lot less complicated.*
  </p>
  
  
