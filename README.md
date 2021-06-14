@@ -1,4 +1,4 @@
-# N64Portable
+ # <img align="center" src="images/Nintendo_64_Logo.svg.png" alt="Nintendo 64 Logo" height="76px" width="82px">N64Portable  
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
@@ -9,7 +9,7 @@
   Fastforward a few decades and I stumbled across a website called Bitbuilt (https://bitbuilt.net/forums/index.php), a site dedicated to the hacking and portabilization of home video game consoles using various methods like cutting motherboards down in size, developing custom PCBs for power management and sound, and many other amazing things the talented members have come up with. I spent years lurking on the website in awe of what people could achieve, consistently coming back every few months to scour through the forums and see what advances people have made. 
   
   Finally 2020 arrives and my pandemic boredom was peaking until I decided to go check up on BitBuilt. While scrolling through posts I stumble across the post for the annual summer building contest and I immediately knew I had found the cure for my boredom. I decided right then and there that despite never attempting a portable and knowing full well I would most likely fail, it would be such a fun way to flex my CAD skills as well as pick up some new ones along the way. 
- </p>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/printsmith/readme/master/assets/lines/vintage.png)
 
