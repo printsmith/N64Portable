@@ -1,4 +1,4 @@
- <p align="center"> 
+<p align="center"> 
   <img src="images/Nintendo_64_Logo.svg.png" alt="Pacman Logo" width="200">
 </p>
 <h1 align="center"> Nintendo 64 Portable </h1>
@@ -44,7 +44,7 @@
   * It's gotta look cool
   * Stretch goal: if I have time, devise a way to make a dock in order to play the console on a TV and have 4 player support.
  
-  Once the design constraints were fleshed out, it was time to begin. 
+Once the design constraints were fleshed out, it was time to begin. 
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/printsmith/readme/master/assets/lines/vintage.png)
@@ -53,28 +53,34 @@
 <h2 id="n64-anatomy">Nintendo 64 Anatomy</h2>
 
 <p align="justify"> 
-  The first thing to do was find a donor board, begin researching and then begin disecting it. Luckily there is a ton of documentation and guides on the Bitbuilt forums that I ws able to use, so I will not be going over every single thing that I have done but I encourage you the reader to go over to Bitbuilt and explore the forums and guides.
+The first thing to do was find a donor board, begin researching and then begin disecting it. Luckily there is a ton of documentation and guides on the Bitbuilt forums that I ws able to use, so I will not be going over every single thing that I have done but I encourage you the reader to go over to Bitbuilt and explore the forums and guides.
   
- I was able to find some consoles on Facebook marketplace which all had damaged cases for around $20 each and I quickly picked up 2 of them because I anticipated at least killing one board (spoiler, I killed more than one). The Nintendo 64 motherboard is 
+I was able to find some consoles on Facebook marketplace which all had damaged cases for around $20 each and I quickly picked up 2 of them because I anticipated at least killing one board (spoiler, I killed more than one).
  
- <p align = "center">
- <img src="images/Motherboard/Motherboard.jpg" alt="Donor Board" width="700">
- </p>
- <p align = "center">
- Donor Motherboard
- </p>
+<p align = "center">
+<img src="images/Motherboard/Motherboard.jpg" alt="Donor Board" width="700">
+</p>
+<p align = "center">
+Donor Motherboard
+</p>
+
+After desoldering the controller ports, reset switch and power switch I began to outline how I would need to trim down the board. Using the trimming guide from the Bitbuilt forums I was able to outline where I would need to make my cuts. Once trimmed, some voltage lines needed to be rerouted and I began working on a solution for relocating the game cartridge.
+
+<p align = "center">
+<img src="images/Motherboard/BareMotherboard.jpg" alt="Bare Motherboard" width="450">
+<img src="images/Motherboard/TrimOutline.jpg" alt="Trim Outline" width="350">
+</p>
+<p align = "center">
+Bare motherboard and trim outline
+</p>
+
  
- After desoldering the controller ports, reset switch and power switch I began to outline how I would need to trim down the board. Using the trimming guide from the Bitbuilt forums I was able to outline where I would need to make my cuts.
- 
- <p align = "center">
- <img src="images/Motherboard/BareMotherboard.jpg" alt="Bare Motherboard" width="450">
- <img src="images/Motherboard/TrimOutline.jpg" alt="Trim Outline" width="350">
- </p>
- <p align = "center">
- Bare motherboard and trim outline
- </p>
- 
+<p align = "center">
+<img src="images/Motherboard/TrimmedMotherboard.jpg" alt="Bare Motherboard" width="600">
+</p>
+<p align = "center">
+Trimmed Motherboard
+</p>
+
 *Note: In December of 2020 a new advanced trimming guide was released on the website which allows for an even further reduction, unfortunately I did not have this at my disposal when doing this project so perhaps in the future when I build version 2.0 this will make things a lot less complicated.*
- </p>
- 
- 
+</p>
