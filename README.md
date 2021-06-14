@@ -76,11 +76,11 @@ Bare motherboard and trim outline
 
  
 <p align = "center">
-<img src="images/Motherboard/TrimmedMotherboard.jpg" alt="Bare Motherboard" width="600">
+<img src="images/Motherboard/TrimmedMotherboard.jpg" alt="Bare Motherboard" width="420">
+<img src="images/Motherboard/TrimmedVoltageReroute.jpg" alt="Bare Motherboard" width="500">
 </p>
 <p align = "center">
-Trimmed Motherboard
+Trimmed Motherboard and Rerouted Voltage Lines
 </p>
-
 *Note: In December of 2020 a new advanced trimming guide was released on the website which allows for an even further reduction, unfortunately I did not have this at my disposal when doing this project so perhaps in the future when I build version 2.0 this will make things a lot less complicated.*
 </p>
