@@ -1,4 +1,21 @@
- # <img align="center" src="images/Nintendo_64_Logo.svg.png" alt="Nintendo 64 Logo" height="76px" width="82px">N64Portable  
+ <p align="center"> 
+  <img src="images/Nintendo_64_Logo.svg.png" alt="Pacman Logo" width="200">
+</p>
+<h1 align="center"> Nintendo 64 Portable </h1>
+
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#overview"> ➤ Overview</a></li>
+    <li><a href="#n64-anatomy"> ➤ Nintendo 64 Anatomy</a></li>
+  </ol>
+</details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/printsmith/readme/master/assets/lines/vintage.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
@@ -33,7 +50,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/printsmith/readme/master/assets/lines/vintage.png)
 
 <!-- Nintendo 64 Anatomy -->
-<h2 id="overview">Nintendo 64 Anatomy</h2>
+<h2 id="n64-anatomy">Nintendo 64 Anatomy</h2>
 
 <p align="justify"> 
   The first thing to do was find a donor board, begin researching and then begin disecting it. Luckily there is a ton of documentation and guides on the Bitbuilt forums that I ws able to use, so I will not be going over every single thing that I have done but I encourage you the reader to go over to Bitbuilt and explore the forums and guides.
