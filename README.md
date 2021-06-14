@@ -49,8 +49,8 @@
  After desoldering the controller ports, reset switch and power switch I began to outline how I would need to trim down the board. Using the trimming guide from the Bitbuilt forums I was able to outline where I would need to make my cuts.
  
  <p align = "center">
- <img src="images/Motherboard/BareMotherboard.jpg" alt="Bare Motherboard" width="500">
- <img src="images/Motherboard/TrimOutline.jpg" alt="Trim Outline" width="400">
+ <img src="images/Motherboard/BareMotherboard.jpg" alt="Bare Motherboard" width="450">
+ <img src="images/Motherboard/TrimOutline.jpg" alt="Trim Outline" width="350">
  </p>
  <p align = "center">
  Bare motherboard and trim outline
