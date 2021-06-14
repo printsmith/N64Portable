@@ -20,6 +20,7 @@
   In this project my goal was to utilize my knowledge of CAD and specifically designing for FDM 3D printing to it's full potential and build an ergonomic, sleek, yet still retro looking portable Nintendo 64. Before starting my design, I set my constraints:
   
   * All parts must fit in my 3D printer's print volume of 200mm<sup>2</sup>
+  * Use common metric machine screws and off the shelf components
   * I will reuse the original controller buttons and controller chip
   * I wanted to learn how to design my own custom PCBs for the controller, power management system and audio amplifier
   * The console should have a cartridge slot (as opposed to an integrated flash card with all of the games on a microSD card, such as the [Everdrive 64](https://krikzz.com/store/home/55-everdrive-64-x7.html)
