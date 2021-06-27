@@ -2,7 +2,9 @@
   <img src="images/Nintendo_64_Logo.svg.png" alt="Pacman Logo" width="200">
 </p>
 <h1 align="center"> Nintendo 64 Portable </h1>
-
+<p align="center"> 
+  <img src="gif/full_assembly.gif" alt="Animated gif Full Assembly" height="282px" width="637">
+</p>
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents">Table of Contents</h2>
 
