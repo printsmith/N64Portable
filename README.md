@@ -104,8 +104,8 @@ Going into this project I knew basically nothing about PCB design and one of my 
 </p>
 
 <p align = "center">
-<img src="images/PCB/abcs_revA.PNG" alt="Bare Motherboard" width="410">
-<img src="images/PCB/abcs_revA_CAD.PNG" alt="Bare Motherboard" width="460">
+<img src="images/PCB/abcs_front.PNG" alt="Bare Motherboard" width="300">
+<img src="images/PCB/abcs_rear.PNG" alt="Bare Motherboard" width="310">
 <img src="images/PCB/dpad_revA.PNG" alt="Bare Motherboard" width="400">
 <img src="images/PCB/dpad_revA_CAD.PNG" alt="Bare Motherboard" width="460">
 </p>
