@@ -2,9 +2,7 @@
   <img src="images/Nintendo_64_Logo.svg.png" alt="Pacman Logo" width="200">
 </p>
 <h1 align="center"> Nintendo 64 Portable </h1>
-<p align="center"> 
-  <img src="gif/full_assembly.gif" alt="Animated gif Full Assembly" height="282px" width="637">
-</p>
+
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents">Table of Contents</h2>
 
@@ -22,7 +20,12 @@
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
-
+<p align="center"> 
+  <img src="gif/full_assembly.gif" alt="Animated gif Full Assembly" height="300px">
+</p>
+<p align = "center">
+Nintendo 64 Portable Assembly Animation
+</p>
 <p align="justify"> 
   Growing up my favourite games were on the Nintendo 64, which makes sense because it was the first home console my family owned. My 6 year old mind was blown when my brother and I first booted up Super Mario 64 and saw Mario standing in front of us in the most cutting edge 3D graphics. My mind continued to get blown as the years went on and I played games like The Legend of Zelda: Ocarina of Time and Majora's Mask, Donkey Kong 64, Banjo-Kazooie and Banjo-Tooie, the list goes on... These games and this console helped shape who I am today and I have a lot to thank them for. 
   
